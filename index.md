@@ -18,14 +18,8 @@ Learn how to configure and integrate TFT panels with embedded platforms, includi
 
 ## 🧰 Resources
 
-- [GitHub Repository](https://github.com/Kevin109/rocktech-tft-display-configs)
-- [Rocktech Official Website](https://www.rocktech.com.hk)
-- [Factory Overview](https://www.rocktech.com.hk/factory-overview/)
+[🏠 Back to Home](https://kevin109.github.io/)
 
----
-
-
-![RK070CU01 Diagram](./images/AD-1.webp)
 ## 🛠 Contributions
 
 We welcome contributions and suggestions. Feel free to submit a pull request or open an issue for bugs, updates, or additional topics you'd like to see.
